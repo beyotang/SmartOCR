@@ -1,0 +1,10 @@
+PySide6
+requests
+keyboard
+Pillow
+docx
+openpyxl
+pandas
+pymupdf
+pywin32
+markdown
