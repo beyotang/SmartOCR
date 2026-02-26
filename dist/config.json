@@ -1,22 +1,22 @@
 {
     "models": {
         "PP-OCRv5": {
-            "url": "https://j9g9m6wan9y9lbz1.aistudio-app.com/ocr",
-            "token": "b128e838d812553ee1b941b502e3495a644199dd"
+            "url": "https://你申请的链接.aistudio-app.com/ocr",
+            "token": "填入你的申请的token"
         },
         "PP-StructureV3": {
-            "url": "https://t8wc5bi1x0w6l095.aistudio-app.com/layout-parsing",
-            "token": "b128e838d812553ee1b941b502e3495a644199dd"
+            "url": "https://你申请的链接.aistudio-app.com/layout-parsing",
+            "token": "填入你的申请的token"
         },
         "PaddleOCR-VL": {
-            "url": "https://hfwfx1p1vbkaxcqf.aistudio-app.com/layout-parsing",
-            "token": "b128e838d812553ee1b941b502e3495a644199dd"
+            "url": "https://你申请的链接.aistudio-app.com/layout-parsing",
+            "token": "填入你的申请的token"
         }
     },
     "current_model": "PP-OCRv5",
     "translation": {
         "api_url": "https://api-inference.modelscope.cn/v1/chat/completions",
-        "api_key": "ms-fde7f0e0-5492-499e-9ad2-4d67068994a4",
+        "api_key": "填入你的申请的api_key",
         "model": "ZhipuAI/GLM-4.7",
         "custom_prompts": [
             {
